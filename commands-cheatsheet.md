@@ -12,3 +12,14 @@ A quick reference to commonly used Linux commands.
 | `date` | 📅 Show the current system date and time |
 
 ---
+## 💻 Day 2 Basic Command Syntax
+
+| 🖥️ Command | 📝 Description |
+|------------|----------------|
+| `ls` | 📂 List files and directories |
+| `ls -l` | 📋 Display files in long listing format |
+| `ls -r` | 🔄 List files in reverse order |
+| `ls -lr` | 📋🔄 Display a long listing in reverse order |
+| `ls Documents` | 📁 List the contents of the **Documents** directory |
+
+---
