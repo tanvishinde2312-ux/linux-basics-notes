@@ -35,3 +35,45 @@ A quick reference to commonly used Linux commands.
 | `cd .` | 📍 Stay in the current directory |
 
 ---
+## 📂 Day 4 Listing Files Commands
+
+| 💻 Command | 📝 Description |
+|------------|----------------|
+| `ls` | 📂 List files and directories |
+| `ls directory` | 📁 List contents of a specific directory |
+| `ls -l` | 📋 Display detailed (long) listing |
+| `ls -r` | 🔄 List files in reverse alphabetical order |
+| `ls -lt` | ⏰ Sort files by last modified time (newest first) |
+| `ls -lS` | 📏 Sort files by file size (largest first) |
+| `ls -lSr` | 🔁 Sort files by file size (smallest first) |
+
+---
+
+## 📋 `ls -l` Output Fields
+
+| 🏷️ Field | 📝 Description |
+|-----------|----------------|
+| 📂 File Type | Indicates file or directory type |
+| 🔐 Permissions | Read, write, and execute permissions |
+| 🔗 Hard Links | Number of hard links |
+| 👤 Owner | File owner |
+| 👥 Group | Group owner |
+| 📏 Size | File size |
+| 📅 Timestamp | Last modified date & time |
+| 📄 Filename | Name of the file |
+
+---
+
+## 📁 Linux File Types
+
+| 🔣 Symbol | 📄 Type |
+|-----------|---------|
+| `d` | 📂 Directory |
+| `-` | 📄 Regular File |
+| `l` | 🔗 Symbolic Link |
+| `b` | 💾 Block Device |
+| `c` | ⌨️ Character Device |
+| `p` | 🚰 Pipe |
+| `s` | 🔌 Socket |
+
+---
