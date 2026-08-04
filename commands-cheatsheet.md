@@ -23,3 +23,15 @@ A quick reference to commonly used Linux commands.
 | `ls Documents` | 📁 List the contents of the **Documents** directory |
 
 ---
+## 📂 Day 3 Directory Navigation
+
+| 🖥️ Command | 📝 Description |
+|------------|----------------|
+| `pwd` | 📍 Show the current working directory |
+| `cd directory` | 📂 Change to the specified directory |
+| `cd /` | 🌳 Go to the root directory |
+| `cd ~` | 🏠 Go to the home directory |
+| `cd ..` | ⬆️ Move to the parent directory |
+| `cd .` | 📍 Stay in the current directory |
+
+---
