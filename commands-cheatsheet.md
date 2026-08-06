@@ -105,3 +105,20 @@ A quick reference to commonly used Linux commands.
 | `cd ~/Documents` | 📂 Navigate to the Documents directory |
 
 ---
+
+# 📑 Day 7 Command Cheat Sheet
+
+| 💻 Command | 📝 Description |
+|------------|----------------|
+| `cd ~/Documents` | 📂 Go to the Documents directory |
+| `ls -l` | 📋 Display detailed file information |
+| `sudo chown root hello.sh` | 👑 Change the file owner to **root** |
+| `ls -l hello.sh` | 🔍 Verify the updated file ownership |
+| `cat animals.txt` | 🐱 Display the entire contents of a file |
+| `cat alpha.txt` | 📄 View all lines in a text file |
+| `head alpha.txt` | ⬆️ Show the first 10 lines |
+| `tail alpha.txt` | ⬇️ Show the last 10 lines |
+| `head -n 5 alpha.txt` | 🔢 Display the first 5 lines |
+| `tail -n 5 alpha.txt` | 🔢 Display the last 5 lines |
+
+---
