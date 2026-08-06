@@ -92,3 +92,16 @@ A quick reference to commonly used Linux commands.
 | `exit` | 🚪 Exit the current shell and return to the previous user |
 
 ---
+
+# 🔐Day 6 File Permissions
+
+| 💻 Command | 📝 Description |
+|------------|----------------|
+| `ls -l` | 📋 Display detailed file permissions |
+| `chmod u+x file` | ➕ Add execute permission for the owner |
+| `chmod u-x file` | ➖ Remove execute permission for the owner |
+| `chmod u=rwx file` | ⚙️ Set read, write, and execute permissions for the owner |
+| `./file` | ▶️ Execute a file or script from the current directory |
+| `cd ~/Documents` | 📂 Navigate to the Documents directory |
+
+---
