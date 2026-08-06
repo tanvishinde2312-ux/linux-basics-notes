@@ -77,3 +77,18 @@ A quick reference to commonly used Linux commands.
 | `s` | 🔌 Socket |
 
 ---
+
+# 🔐Day 5 Administrative Access
+
+| 💻 Command | 📝 Description |
+|------------|----------------|
+| `su -` | 👤 Switch to the root user (login shell) |
+| `su -l` | 🔄 Switch to the root user with a login shell |
+| `su --login` | 🔑 Login as another user with a full environment |
+| `sudo command` | ⚡ Run a command with administrator privileges |
+| `sudo -u username command` | 👥 Run a command as another user |
+| `sudo whoami` | 👤 Display the current user after using `sudo` |
+| `sudo ls /root` | 📂 List files in the root user's directory |
+| `exit` | 🚪 Exit the current shell and return to the previous user |
+
+---
